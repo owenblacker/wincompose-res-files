@@ -1,0 +1,181 @@
+# for Emacs: -*- coding: utf-8 -*-
+
+#
+# Custom additions for WinCompose
+# by Sam Hocevar <sam@hocevar.net>
+#
+
+# Squared characters
+<Multi_key> <Multi_key> <bracketleft> <A> <bracketright>                        : "?" U1F170 # negative squared latin capital letter a
+<Multi_key> <Multi_key> <bracketleft> <B> <bracketright>                        : "?" U1F171 # negative squared latin capital letter b
+<Multi_key> <Multi_key> <bracketleft> <O> <bracketright>                        : "?" U1F17E # negative squared latin capital letter o
+<Multi_key> <Multi_key> <bracketleft> <P> <bracketright>                        : "?" U1F17F # negative squared latin capital letter p
+<Multi_key> <Multi_key> <bracketleft> <a> <b> <bracketright>                    : "?" U1F18E # negative squared ab
+<Multi_key> <Multi_key> <bracketleft> <c> <l> <bracketright>                    : "?" U1F191 # squared cl
+<Multi_key> <Multi_key> <bracketleft> <c> <o> <o> <l> <bracketright>            : "?" U1F192 # squared cool
+<Multi_key> <Multi_key> <bracketleft> <f> <r> <e> <e> <bracketright>            : "?" U1F193 # squared free
+<Multi_key> <Multi_key> <bracketleft> <i> <d> <bracketright>                    : "?" U1F194 # squared id
+<Multi_key> <Multi_key> <bracketleft> <n> <e> <w> <bracketright>                : "?" U1F195 # squared new
+<Multi_key> <Multi_key> <bracketleft> <n> <g> <bracketright>                    : "?" U1F196 # squared ng
+<Multi_key> <Multi_key> <bracketleft> <o> <k> <bracketright>                    : "?" U1F197 # squared ok
+<Multi_key> <Multi_key> <bracketleft> <s> <o> <s> <bracketright>                : "?" U1F198 # squared sos
+<Multi_key> <Multi_key> <bracketleft> <u> <p> <!> <bracketright>                : "?" U1F199 # squared up with exclamation mark
+<Multi_key> <Multi_key> <bracketleft> <v> <s> <bracketright>                    : "?" U1F19A # squared vs
+
+# Konami code
+<Multi_key> <Multi_key> <Up> <Up> <Down> <Down> <Left> <Right> <Left> <Right> <b> <a> : "ᕙ༼ຈل͜ຈ༽ᕗ" # Mighty Donger
+
+# Cyrillic alphabet
+<Multi_key> <ampersand> <A>              : "А"  U0410 # Cyrillic capital letter a
+<Multi_key> <ampersand> <B>              : "Б"  U0411 # Cyrillic capital letter be
+<Multi_key> <ampersand> <V>              : "В"  U0412 # Cyrillic capital letter ve
+<Multi_key> <ampersand> <G>              : "Г"  U0413 # Cyrillic capital letter ghe
+<Multi_key> <ampersand> <D>              : "Д"  U0414 # Cyrillic capital letter de
+<Multi_key> <ampersand> <Y> <D>          : "Ђ"  U0402 # Cyrillic capital letter dje
+<Multi_key> <ampersand> <Y> <E>          : "Е"  U0415 # Cyrillic capital letter ie
+<Multi_key> <ampersand> <Y> <O>          : "Ё"  U0401 # Cyrillic capital letter io
+<Multi_key> <ampersand> <H> <Z>          : "Ж"  U0416 # Cyrillic capital letter zhe
+<Multi_key> <ampersand> <Z>              : "З"  U0417 # Cyrillic capital letter ze
+<Multi_key> <ampersand> <I>              : "И"  U0418 # Cyrillic capital letter i
+<Multi_key> <ampersand> <Y> <Y>          : "Й"  U0419 # Cyrillic capital letter short i
+<Multi_key> <ampersand> <K>              : "К"  U041a # Cyrillic capital letter ka
+<Multi_key> <ampersand> <Q>              : "Қ"  U049a # Cyrillic capital letter ka with descender
+<Multi_key> <ampersand> <L>              : "Л"  U041b # Cyrillic capital letter el
+<Multi_key> <ampersand> <Y> <L>          : "Љ"  U0409 # Cyrillic capital letter lje
+<Multi_key> <ampersand> <M>              : "М"  U041c # Cyrillic capital letter em
+<Multi_key> <ampersand> <N>              : "Н"  U041d # Cyrillic capital letter en
+<Multi_key> <ampersand> <Y> <N>          : "Њ"  U040a # Cyrillic capital letter nje
+<Multi_key> <ampersand> <H> <N>          : "Ң"  U04a2 # Cyrillic capital letter en with descender (NG)
+<Multi_key> <ampersand> <O>              : "О"  U041e # Cyrillic capital letter o
+<Multi_key> <ampersand> <P>              : "П"  U041f # Cyrillic capital letter pe
+<Multi_key> <ampersand> <R>              : "Р"  U0420 # Cyrillic capital letter er
+<Multi_key> <ampersand> <S>              : "С"  U0421 # Cyrillic capital letter es
+<Multi_key> <ampersand> <T>              : "Т"  U0422 # Cyrillic capital letter te
+<Multi_key> <ampersand> <Y> <C>          : "Ћ"  U040b # Cyrillic capital letter tshe
+<Multi_key> <ampersand> <Y> <K>          : "Ќ"  U040c # Cyrillic capital letter kje
+<Multi_key> <ampersand> <U>              : "У"  U0423 # Cyrillic capital letter u
+<Multi_key> <ampersand> <H> <Y>          : "Ү"  U04ae # Cyrillic capital letter straight u (Y)
+<Multi_key> <ampersand> <F>              : "Ф"  U0424 # Cyrillic capital letter ef
+<Multi_key> <ampersand> <H> <K>          : "Х"  U0425 # Cyrillic capital letter ha
+<Multi_key> <ampersand> <C>              : "Ц"  U0426 # Cyrillic capital letter tse
+<Multi_key> <ampersand> <H> <C>          : "Ч"  U0427 # Cyrillic capital letter che
+<Multi_key> <ampersand> <H> <D>          : "Џ"  U040f # Cyrillic capital letter dzhe
+<Multi_key> <ampersand> <H> <S>          : "Ш"  U0428 # Cyrillic capital letter sha
+<Multi_key> <ampersand> <Y> <S>          : "Щ"  U0429 # Cyrillic capital letter shcha
+<Multi_key> <ampersand> <H> <at>         : "Ъ"  U042a # Cyrillic capital letter hard sign
+<Multi_key> <ampersand> <Y> <I>          : "Ы"  U042b # Cyrillic capital letter yeru
+<Multi_key> <ampersand> <at>             : "Ь"  U042c # Cyrillic capital letter soft sign
+<Multi_key> <ampersand> <E>              : "Э"  U042d # Cyrillic capital letter e
+<Multi_key> <ampersand> <Y> <U>          : "Ю"  U042e # Cyrillic capital letter yu
+<Multi_key> <ampersand> <Y> <A>          : "Я"  U042f # Cyrillic capital letter ya
+<Multi_key> <ampersand> <H> <A>          : "Ѣ"  U0462 # Cyrillic capital letter yat
+<Multi_key> <ampersand> <H> <Q>          : "Ҁ"  U0480 # Cyrillic capital letter koppa (Q)
+
+
+<Multi_key> <ampersand> <a>              : "а"  U0430 # Cyrillic small letter a
+<Multi_key> <ampersand> <b>              : "б"  U0431 # Cyrillic small letter be
+<Multi_key> <ampersand> <v>              : "в"  U0432 # Cyrillic small letter ve
+<Multi_key> <ampersand> <g>              : "г"  U0433 # Cyrillic small letter ghe
+<Multi_key> <ampersand> <d>              : "д"  U0434 # Cyrillic small letter de
+<Multi_key> <ampersand> <y> <d>          : "ђ"  U0452 # Cyrillic small letter dje
+<Multi_key> <ampersand> <y> <e>          : "е"  U0435 # Cyrillic small letter ie
+<Multi_key> <ampersand> <y> <o>          : "ё"  U0451 # Cyrillic small letter io
+<Multi_key> <ampersand> <h> <z>          : "ж"  U0436 # Cyrillic small letter zhe
+<Multi_key> <ampersand> <z>              : "з"  U0437 # Cyrillic small letter ze
+<Multi_key> <ampersand> <i>              : "и"  U0438 # Cyrillic small letter i
+<Multi_key> <ampersand> <y> <y>          : "й"  U0439 # Cyrillic small letter short i
+<Multi_key> <ampersand> <k>              : "к"  U043a # Cyrillic small letter ka
+<Multi_key> <ampersand> <q>              : "қ"  U049b # Cyrillic small letter ka with descender
+<Multi_key> <ampersand> <l>              : "л"  U043b # Cyrillic small letter el
+<Multi_key> <ampersand> <y> <l>          : "љ"  U0459 # Cyrillic small letter lje
+<Multi_key> <ampersand> <m>              : "м"  U043c # Cyrillic small letter em
+<Multi_key> <ampersand> <n>              : "н"  U043d # Cyrillic small letter en
+<Multi_key> <ampersand> <y> <n>          : "њ"  U045a # Cyrillic small letter nje
+<Multi_key> <ampersand> <h> <n>          : "ң"  U04a3 # Cyrillic small letter en with descender (NG)
+<Multi_key> <ampersand> <o>              : "о"  U043e # Cyrillic small letter o
+<Multi_key> <ampersand> <p>              : "п"  U043f # Cyrillic small letter pe
+<Multi_key> <ampersand> <r>              : "р"  U0440 # Cyrillic small letter er
+<Multi_key> <ampersand> <s>              : "с"  U0441 # Cyrillic small letter es
+<Multi_key> <ampersand> <t>              : "т"  U0442 # Cyrillic small letter te
+<Multi_key> <ampersand> <y> <c>          : "ћ"  U045b # Cyrillic small letter tshe
+<Multi_key> <ampersand> <y> <k>          : "ќ"  U045c # Cyrillic small letter kje
+<Multi_key> <ampersand> <u>              : "у"  U0443 # Cyrillic small letter u
+<Multi_key> <ampersand> <h> <y>          : "ү"  U0443 # Cyrillic small letter straight u (Y)
+<Multi_key> <ampersand> <f>              : "ф"  U0444 # Cyrillic small letter ef
+<Multi_key> <ampersand> <h> <k>          : "х"  U0445 # Cyrillic small letter ha
+<Multi_key> <ampersand> <c>              : "ц"  U0446 # Cyrillic small letter tse
+<Multi_key> <ampersand> <h> <c>          : "ч"  U0447 # Cyrillic small letter che
+<Multi_key> <ampersand> <h> <d>          : "џ"  U045f # Cyrillic small letter dzhe
+<Multi_key> <ampersand> <h> <s>          : "ш"  U0448 # Cyrillic small letter sha
+<Multi_key> <ampersand> <y> <s>          : "щ"  U0449 # Cyrillic small letter shcha
+<Multi_key> <ampersand> <h> <apostrophe> : "ъ"  U044a # Cyrillic small letter hard sign
+<Multi_key> <ampersand> <y> <i>          : "ы"  U044b # Cyrillic small letter yeru
+<Multi_key> <ampersand> <apostrophe>     : "ь"  U044c # Cyrillic small letter soft sign
+<Multi_key> <ampersand> <e>              : "э"  U044d # Cyrillic small letter e
+<Multi_key> <ampersand> <y> <u>          : "ю"  U044e # Cyrillic small letter yu
+<Multi_key> <ampersand> <y> <a>          : "я"  U044f # Cyrillic small letter ya
+<Multi_key> <ampersand> <h> <a>          : "ѣ"  U0463 # Cyrillic small letter yat
+<Multi_key> <ampersand> <h> <q>          : "ҁ"  U0481 # Cyrillic small letter koppa (Q)
+
+# Russian Ruble sign
+<Multi_key> <P> <minus> : "₽"    U20bd # Ruble sign
+<Multi_key> <p> <minus> : "₽"    U20bd # Ruble sign
+
+
+# Dozenal digits (https://en.wikipedia.org/wiki/Duodecimal#Transdecimal_symbols)
+<Multi_key> <d> <2> : "↊"    U218A # Turned digit two
+<Multi_key> <d> <3> : "↋"    U218B # Turned digit three
+
+# Various tests
+<Multi_key> <t> <f>           : "(ﾉಥ益ಥ）ﾉ彡┻━┻"  # Table flip like a boss
+<Multi_key> <l> <f>           : "( ͡° ͜ʖ ͡°)"        # Lenny face
+<Multi_key> <s> <f>           : "¯\\_(ツ)_/¯"     # Shrug face
+
+<Multi_key> <h> <w> <space>   : "Hello World"
+<Multi_key> <Down> <Right>    : "⤷"  U2937 # Arrow pointing downwards then curving rightwards
+
+# Bidi marks
+<Multi_key> <l> <r> <m> : "‎" U200e # Bidi left-to-right mark
+<Multi_key> <r> <l> <m> : "‏" U200f # Bidi right-to-left mark
+<Multi_key> <a> <l> <m> : "؜" U061c # Bidi Arabic letter mark (sim to RLM)
+
+# Latin extended characters
+<Multi_key> <o> <k> <i> <n> <a>            : "ʻ" U02BB # Modifier letter turned comma (ʻOkina)
+<Multi_key> <w> <y> <n> <n>                : "ƿ" U01BF # Latin letter wynn (U+01BF)
+<Multi_key> <W> <Y> <N> <N>                : "Ƿ" U01F7 # Latin capital letter wynn (U+01F7)
+<Multi_key> <h> <v>                        : "ƕ" U0195 # Latin small letter hv (U+0195)
+<Multi_key> <H> <V>                        : "Ƕ" U01F6 # Latin capital letter hwair (U+01F6)
+<Multi_key> <y> <r>                        : "ʀ" U0280 # Latin letter small capital r
+<Multi_key> <Y> <R>                        : "Ʀ" U01a6 # Latin letter YR
+<Multi_key> <minus> <minus> <a> <e>        : "Ǣ" U01e2 # Latin capital letter AE with macron
+<Multi_key> <minus> <minus> <A> <E>        : "ǣ" U01e3 # Latin small letter AE with macron
+<Multi_key> <minus> <apostrophe> <a> <e>   : "Ǽ" U01fc # Latin capital letter AE with acute
+<Multi_key> <minus> <apostrophe> <A> <E>   : "ǽ" U01fd # Latin small letter AE with acute
+<Multi_key> <slash> <apostrophe> <o>       : "Ǿ" U01fe # Latin capital letter O with stroke and acute
+<Multi_key> <slash> <apostrophe> <O>       : "ǿ" U01ff # Latin small letter O with stroke and acute
+<Multi_key> <c> <minus>                    : "c̄" # Latin small letter C with macron above
+<Multi_key> <minus> <c>                    : "c̄" # Latin small letter C with macron above
+<Multi_key> <C> <minus>                    : "C̄" # Latin capital letter C with macron above
+<Multi_key> <minus> <C>                    : "C̄" # Latin capital letter C with macron above
+<Multi_key> <c> <underscore>               : "c̱" # Latin small letter C with macron below
+<Multi_key> <underscore> <c>               : "c̱" # Latin small letter C with macron below
+<Multi_key> <C> <underscore>               : "C̱" # Latin capital letter C with macron below
+<Multi_key> <underscore> <C>               : "C̱" # Latin capital letter C with macron below
+<Multi_key> <s> <minus>                    : "s̄" # Latin small letter S with macron above
+<Multi_key> <minus> <s>                    : "s̄" # Latin small letter S with macron above
+<Multi_key> <S> <minus>                    : "S̄" # Latin capital letter S with macron above
+<Multi_key> <minus> <S>                    : "S̄" # Latin capital letter S with macron above
+<Multi_key> <s> <underscore>               : "s̱" # Latin small letter S with macron below
+<Multi_key> <underscore> <s>               : "s̱" # Latin small letter S with macron below
+<Multi_key> <S> <underscore>               : "S̱" # Latin capital letter S with macron below
+<Multi_key> <underscore> <S>               : "S̱" # Latin capital letter S with macron below
+
+# Unicode superscripts and subscripts
+<Multi_key> <asciicircum> <asciicircum> <s>: "ˢ"  U02E2 # Modifier letter small s
+
+
+# Miscellaneous signs
+<Multi_key> <minus> <minus> <equal>        : "−"  U2212 # Minus sign
+<Multi_key> <p> <e> <r>                    : "⅌"  U214c # Per sign
+<Multi_key> <space> <backslash> <comma>    : " " U200A # Hairline space
+<Multi_key> <x> <r>                        : "⧖" U29D6 # "White hourglass (Extinction Rebellion symbol)"
