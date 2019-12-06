@@ -4,4 +4,4 @@ Upgrading [Sam Hocevar's WinCompose](http://wincompose.info/) [`samhocevar/winco
 
 So, after compare against a manually archived version of my files a few upgrades ago, I figured I should just create a repo so I can get a changelog as well as easy diffing.
 
-[@owenblacker](https://twitter.com/owenblacker], 6 December 2019
+[@owenblacker](https://twitter.com/owenblacker), 6 December 2019
