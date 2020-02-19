@@ -604,6 +604,7 @@
 <Multi_key> <Multi_key> <h> <e> <a> <r> <t> <g> <r> <e> <e> <n>                 : "💚" U1F49A # green heart
 <Multi_key> <Multi_key> <h> <e> <a> <r> <t> <y> <e> <l> <l> <o> <w>             : "💛" U1F49B # yellow heart
 <Multi_key> <Multi_key> <h> <e> <a> <r> <t> <p> <u> <r> <p> <l> <e>             : "💜" U1F49C # purple heart
+<Multi_key> <Multi_key> <h> <e> <a> <r> <t> <b> <l> <a> <c> <k>                 : "🖤" U1F5A4 # black heart
 # "💝" U1F49D # heart with ribbon
 # "💞" U1F49E # revolving hearts
 # "💟" U1F49F # heart decoration
