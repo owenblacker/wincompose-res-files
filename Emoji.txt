@@ -12,7 +12,7 @@
 #  sed -ne 's/.* # //p' Emoji.txt | sort | grep -v ' ' | while read i; do echo "$(grep "# $i" Emoji.txt | wc -l) $i"; done | grep '^1 '
 
 <Multi_key> <Multi_key> <f> <i> <t> <z> <3>                                     : "🏼" U1F3FC # Emoji modifier Fitzpatrick 3
-<Multi_key> <Multi_key> <q> <u> <e> <e> <r>       : "❤️🧡💛💚💙💜" # Rainbow of hearts
+<Multi_key> <Multi_key> <q> <u> <e> <e> <r>       : "🖤🤎❤️🧡💛💚💙💜" # Rainbow of hearts
 
 # Emoticons (1F601 — 1F64F)
 <Multi_key> <Multi_key> <g> <r> <i> <n> <n> <i> <n> <g>                         : "😁" U1F601 # grinning face with smiling eyes
@@ -1562,7 +1562,7 @@
 # "🙇🏿‍♀️" U1F647 U1F3FF U200D U2640 UFE0F # woman bowing: dark skin tone
 # "🤦" U1F926 # person facepalming
 # "🤦🏻" U1F926 U1F3FB # person facepalming: light skin tone
-# "🤦🏼" U1F926 U1F3FC # person facepalming: medium-light skin tone
+<Multi_key> <Multi_key> <f> <a> <c> <e> <p> <a> <l> <m> : "🤦🏼" U1F926 U1F3FC # person facepalming: medium-light skin tone
 # "🤦🏽" U1F926 U1F3FD # person facepalming: medium skin tone
 # "🤦🏾" U1F926 U1F3FE # person facepalming: medium-dark skin tone
 # "🤦🏿" U1F926 U1F3FF # person facepalming: dark skin tone
