@@ -739,7 +739,7 @@
 # "🔷" U1F537 # large blue diamond
 # "🔸" U1F538 # small orange diamond
 # "🔹" U1F539 # small blue diamond
-# "🔺" U1F53A # up-pointing red triangle
+<Multi_key> <Multi_key> <asciicircum> <Up>                                      : "🔺" U1F53A # up-pointing red triangle
 # "🔻" U1F53B # down-pointing red triangle
 # "🔼" U1F53C # up-pointing small red triangle
 # "🔽" U1F53D # down-pointing small red triangle
@@ -1406,7 +1406,7 @@
 # "🧓🏿" U1F9D3 U1F3FF # older person: dark skin tone
 # "👴" U1F474 # old man
 # "👴🏻" U1F474 U1F3FB # old man: light skin tone
-# "👴🏼" U1F474 U1F3FC # old man: medium-light skin tone
+<Multi_key> <Multi_key> <o> <l> <d> <space> <m> <a> <n> : "👴🏼" U1F474 U1F3FC # old man: medium-light skin tone
 # "👴🏽" U1F474 U1F3FD # old man: medium skin tone
 # "👴🏾" U1F474 U1F3FE # old man: medium-dark skin tone
 # "👴🏿" U1F474 U1F3FF # old man: dark skin tone
