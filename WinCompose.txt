@@ -6,21 +6,21 @@
 #
 
 # Squared characters
-<Multi_key> <Multi_key> <bracketleft> <A> <bracketright>                        : "?" U1F170 # negative squared latin capital letter a
-<Multi_key> <Multi_key> <bracketleft> <B> <bracketright>                        : "?" U1F171 # negative squared latin capital letter b
-<Multi_key> <Multi_key> <bracketleft> <O> <bracketright>                        : "?" U1F17E # negative squared latin capital letter o
-<Multi_key> <Multi_key> <bracketleft> <P> <bracketright>                        : "?" U1F17F # negative squared latin capital letter p
-<Multi_key> <Multi_key> <bracketleft> <a> <b> <bracketright>                    : "?" U1F18E # negative squared ab
-<Multi_key> <Multi_key> <bracketleft> <c> <l> <bracketright>                    : "?" U1F191 # squared cl
-<Multi_key> <Multi_key> <bracketleft> <c> <o> <o> <l> <bracketright>            : "?" U1F192 # squared cool
-<Multi_key> <Multi_key> <bracketleft> <f> <r> <e> <e> <bracketright>            : "?" U1F193 # squared free
-<Multi_key> <Multi_key> <bracketleft> <i> <d> <bracketright>                    : "?" U1F194 # squared id
-<Multi_key> <Multi_key> <bracketleft> <n> <e> <w> <bracketright>                : "?" U1F195 # squared new
-<Multi_key> <Multi_key> <bracketleft> <n> <g> <bracketright>                    : "?" U1F196 # squared ng
-<Multi_key> <Multi_key> <bracketleft> <o> <k> <bracketright>                    : "?" U1F197 # squared ok
-<Multi_key> <Multi_key> <bracketleft> <s> <o> <s> <bracketright>                : "?" U1F198 # squared sos
-<Multi_key> <Multi_key> <bracketleft> <u> <p> <!> <bracketright>                : "?" U1F199 # squared up with exclamation mark
-<Multi_key> <Multi_key> <bracketleft> <v> <s> <bracketright>                    : "?" U1F19A # squared vs
+<Multi_key> <Multi_key> <bracketleft> <A> <bracketright>                        : "🅰" U1F170 # negative squared latin capital letter a
+<Multi_key> <Multi_key> <bracketleft> <B> <bracketright>                        : "🅱" U1F171 # negative squared latin capital letter b
+<Multi_key> <Multi_key> <bracketleft> <O> <bracketright>                        : "🅾" U1F17E # negative squared latin capital letter o
+<Multi_key> <Multi_key> <bracketleft> <P> <bracketright>                        : "🅿" U1F17F # negative squared latin capital letter p
+<Multi_key> <Multi_key> <bracketleft> <a> <b> <bracketright>                    : "🆎" U1F18E # negative squared ab
+<Multi_key> <Multi_key> <bracketleft> <c> <l> <bracketright>                    : "🆑" U1F191 # squared cl
+<Multi_key> <Multi_key> <bracketleft> <c> <o> <o> <l> <bracketright>            : "🆒" U1F192 # squared cool
+<Multi_key> <Multi_key> <bracketleft> <f> <r> <e> <e> <bracketright>            : "🆓" U1F193 # squared free
+<Multi_key> <Multi_key> <bracketleft> <i> <d> <bracketright>                    : "🆔" U1F194 # squared id
+<Multi_key> <Multi_key> <bracketleft> <n> <e> <w> <bracketright>                : "🆕" U1F195 # squared new
+<Multi_key> <Multi_key> <bracketleft> <n> <g> <bracketright>                    : "🆖" U1F196 # squared ng
+<Multi_key> <Multi_key> <bracketleft> <o> <k> <bracketright>                    : "🆗" U1F197 # squared ok
+<Multi_key> <Multi_key> <bracketleft> <s> <o> <s> <bracketright>                : "🆘" U1F198 # squared sos
+<Multi_key> <Multi_key> <bracketleft> <u> <p> <!> <bracketright>                : "🆙" U1F199 # squared up with exclamation mark
+<Multi_key> <Multi_key> <bracketleft> <v> <s> <bracketright>                    : "🆚" U1F19A # squared vs
 
 # Konami code
 <Multi_key> <Multi_key> <Up> <Up> <Down> <Down> <Left> <Right> <Left> <Right> <b> <a> : "ᕙ༼ຈل͜ຈ༽ᕗ" # Mighty Donger
@@ -171,8 +171,31 @@
 <Multi_key> <underscore> <S>               : "S̱" # Latin capital letter S with macron below
 
 # Unicode superscripts and subscripts
-<Multi_key> <asciicircum> <asciicircum> <s>: "ˢ"  U02E2 # Modifier letter small s
-
+<Multi_key> <asciicircum> <asciicircum> <a> : "ᵃ" U1D43 # Modifier letter small a (superscript)
+<Multi_key> <asciicircum> <asciicircum> <b> : "ᵇ" U1D47 # Modifier letter small b (superscript)
+<Multi_key> <asciicircum> <asciicircum> <c> : "ᶜ" U1D9C # Modifier letter small c (superscript)
+<Multi_key> <asciicircum> <asciicircum> <d> : "ᵈ" U1D48 # Modifier letter small d (superscript)
+<Multi_key> <asciicircum> <asciicircum> <f> : "ᶠ" U1DA0 # Modifier letter small f (superscript)
+<Multi_key> <asciicircum> <asciicircum> <g> : "ᵍ" U1D4D # Modifier letter small g (superscript)
+<Multi_key> <asciicircum> <asciicircum> <i> : "ⁱ" U2071 # Superscript latin letter small i
+<Multi_key> <asciicircum> <asciicircum> <j> : "ʲ" U02B2 # Modifier letter small j (superscript)
+<Multi_key> <asciicircum> <asciicircum> <k> : "ᵏ" U1D4F # Modifier letter small k (superscript)
+<Multi_key> <asciicircum> <asciicircum> <l> : "ˡ" U02E1 # Modifier letter small l (superscript)
+<Multi_key> <asciicircum> <asciicircum> <m> : "ᵐ" U1D50 # Modifier letter small m (superscript)
+<Multi_key> <asciicircum> <asciicircum> <o> : "ᵒ" U1D52 # Modifier letter small o (superscript)
+<Multi_key> <asciicircum> <asciicircum> <p> : "ᵖ" U1D56 # Modifier letter small p (superscript)
+<Multi_key> <asciicircum> <asciicircum> <s> : "ˢ" U02E2 # Modifier letter small s (superscript)
+<Multi_key> <asciicircum> <asciicircum> <u> : "ᵘ" U1D58 # Modifier letter small u (superscript)
+<Multi_key> <asciicircum> <asciicircum> <v> : "ᵛ" U1D5B # Modifier letter small v (superscript)
+<Multi_key> <asciicircum> <asciicircum> <x> : "ˣ" U02E3 # Modifier letter small x (superscript)
+<Multi_key> <asciicircum> <asciicircum> <z> : "ᶻ" U1DBB # Modifier letter small z (superscript)
+<Multi_key> <asciicircum> <asterisk> <a>    : "ᵅ" U1D45 # Modifier letter small alpha (superscript)
+<Multi_key> <asciicircum> <asterisk> <b>    : "ᵝ" U1D5D # Modifier letter small beta (superscript)
+<Multi_key> <asciicircum> <asterisk> <g>    : "ᵞ" U1D5E # Modifier letter small Greek gamma (superscript)
+<Multi_key> <asciicircum> <asterisk> <u>    : "ᶿ" U1DBF # Modifier letter small theta (superscript)
+<Multi_key> <asciicircum> <asterisk> <x>    : "ᵡ" U1D61 # Modifier letter small chi (superscript)
+<Multi_key> <asciicircum> <asciicircum> <apostrophe> : "ˀ" U02C0 # Modifier letter glottal stop (superscript)
+<Multi_key> <asciicircum> <asciicircum> <grave> : "ˤ" U02E4 # Modifier letter small reversed glottal stop (superscript)
 
 # Miscellaneous signs
 <Multi_key> <minus> <minus> <equal>        : "−"  U2212 # Minus sign
