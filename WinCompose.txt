@@ -131,6 +131,7 @@
 <Multi_key> <l> <f>           : "( ͡° ͜ʖ ͡°)"        # Lenny face
 <Multi_key> <s> <f>           : "¯\\_(ツ)_/¯"     # Shrug face
 
+<Multi_key> <equal> <parenright> : "ツ" U30C4 # Katakana letter tu (uwu smile glyph)
 <Multi_key> <h> <w> <space>   : "Hello World"
 <Multi_key> <Down> <Right>    : "⤷"  U2937 # Arrow pointing downwards then curving rightwards
 
