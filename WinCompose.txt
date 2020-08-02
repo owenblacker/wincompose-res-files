@@ -121,6 +121,48 @@
 <Multi_key> <P> <minus> : "₽"    U20bd # Ruble sign
 <Multi_key> <p> <minus> : "₽"    U20bd # Ruble sign
 
+# Hebrew alphabet
+<Multi_key> <percent> <period>      : "ּ"  U05bc # Hebrew point dagesh or mapiq
+<Multi_key> <percent> <minus>       : "־"  U05BE # Hebrew Punctuation Maqaf
+<Multi_key> <percent> <bar>         : "׀"  U05C0 # Hebrew Punctuation Paseq
+<Multi_key> <percent> <comma> <s>   : "ׁ" U05c1 # Hebrew point shin dot (combining)
+<Multi_key> <percent> <comma> <at>  : "ׂ" U05c2 # Hebrew point sin dot (combining)
+<Multi_key> <percent> <colon>       : "׃"  U05C3 # Hebrew Punctuation Sof Pasuq
+<Multi_key> <percent> <bracketleft> : "׆"  U05C6 # Hebrew Punctuation Nun Hafukha
+<Multi_key> <percent> <a>           : "א"  U05D0 # Hebrew Letter Alef
+<Multi_key> <percent> <b>           : "ב"  U05D1 # Hebrew Letter Bet
+<Multi_key> <percent> <g>           : "ג"  U05D2 # Hebrew Letter Gimel
+<Multi_key> <percent> <d>           : "ד"  U05D3 # Hebrew Letter Dalet
+<Multi_key> <percent> <h>           : "ה"  U05D4 # Hebrew Letter He
+<Multi_key> <percent> <v>           : "ו"  U05D5 # Hebrew Letter Vav
+<Multi_key> <percent> <z>           : "ז"  U05D6 # Hebrew Letter Zayin
+<Multi_key> <percent> <x>           : "ח"  U05D7 # Hebrew Letter Het
+<Multi_key> <percent> <t>           : "ט"  U05D8 # Hebrew Letter Tet
+<Multi_key> <percent> <i>           : "י"  U05D9 # Hebrew Letter Yod
+<Multi_key> <percent> <K>           : "ך"  U05DA # Hebrew Letter Final Kaf
+<Multi_key> <percent> <k>           : "כ"  U05DB # Hebrew Letter Kaf
+<Multi_key> <percent> <l>           : "ל"  U05DC # Hebrew Letter Lamed
+<Multi_key> <percent> <M>           : "ם"  U05DD # Hebrew Letter Final Mem
+<Multi_key> <percent> <m>           : "מ"  U05DE # Hebrew Letter Mem
+<Multi_key> <percent> <N>           : "ן"  U05DF # Hebrew Letter Final Nun
+<Multi_key> <percent> <n>           : "נ"  U05E0 # Hebrew Letter Nun
+<Multi_key> <percent> <s>           : "ס"  U05E1 # Hebrew Letter Samekh
+<Multi_key> <percent> <y>           : "ע"  U05E2 # Hebrew Letter Ayin
+<Multi_key> <percent> <P>           : "ף"  U05E3 # Hebrew Letter Final Pe
+<Multi_key> <percent> <p>           : "פ"  U05E4 # Hebrew Letter Pe
+<Multi_key> <percent> <C>           : "ץ"  U05E5 # Hebrew Letter Final Tsadi
+<Multi_key> <percent> <c>           : "צ"  U05E6 # Hebrew Letter Tsadi
+<Multi_key> <percent> <q>           : "ק"  U05E7 # Hebrew Letter Qof
+<Multi_key> <percent> <r>           : "ר"  U05E8 # Hebrew Letter Resh
+<Multi_key> <percent> <S>           : "ש"  U05E9 # Hebrew Letter Shin (without dot)
+<Multi_key> <percent> <T>           : "ת"  U05EA # Hebrew Letter Tav
+<Multi_key> <percent> <W>           : "װ"  U05F0 # Hebrew Ligature Yiddish Double Vav
+<Multi_key> <percent> <V>           : "ױ"  U05F1 # Hebrew Ligature Yiddish Vav Yod
+<Multi_key> <percent> <Y>           : "ײ"  U05F2 # Hebrew Ligature Yiddish Double Yod
+<Multi_key> <percent> <apostrophe>  : "׳"  U05F3 # Hebrew Punctuation Geresh
+<Multi_key> <percent> <quotedbl>    : "״"  U05F4 # Hebrew Punctuation Gershayim
+<Multi_key> <percent> <dollar>      : "₪"  U20aa # New sheqel sign
+
 
 # Dozenal digits (https://en.wikipedia.org/wiki/Duodecimal#Transdecimal_symbols)
 <Multi_key> <d> <2> : "↊"    U218A # Turned digit two
@@ -202,4 +244,4 @@
 <Multi_key> <minus> <minus> <equal>        : "−"  U2212 # Minus sign
 <Multi_key> <p> <e> <r>                    : "⅌"  U214c # Per sign
 <Multi_key> <space> <backslash> <comma>    : " " U200A # Hairline space
-<Multi_key> <x> <r>                        : "⧖" U29D6 # "White hourglass (Extinction Rebellion symbol)"
+<Multi_key> <x> <r>                        : "⧖" U29D6 # White hourglass (Extinction Rebellion symbol)
