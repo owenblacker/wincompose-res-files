@@ -202,7 +202,7 @@
 # "🉐" U1F250 # circled ideograph advantage
 # "🉑" U1F251 # circled ideograph accept
 
-<Multi_key> <k> <e> <y> <c> <a> <p>                                             : "⃣" U20E3 # enclosing keycap
+<Multi_key> <k> <e> <y> <c> <a> <p>                                             : "️⃣" UFE0F + U20E3 # enclosing keycap
 # "#⃣" U0023 # number sign + combining enclosing keycap
 # "0⃣" U0030 # digit zero + combining enclosing keycap
 # "1⃣" U0031 # digit one + combining enclosing keycap
