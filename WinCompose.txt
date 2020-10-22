@@ -245,3 +245,5 @@
 <Multi_key> <p> <e> <r>                    : "⅌"  U214c # Per sign
 <Multi_key> <space> <backslash> <comma>    : " " U200A # Hairline space
 <Multi_key> <x> <r>                        : "⧖" U29D6 # White hourglass (Extinction Rebellion symbol)
+
+<Multi_key> <at> <asciitilde>                   : "¶҂Ϡწ₪" U00b6 U03e0 U0482 U10ec U20aa "Pilcrow Grek-sampi Cyrl-thousands Geor-ts′ili Hebr-sheqel for labelling nonsense"
