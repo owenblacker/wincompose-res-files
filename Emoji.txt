@@ -11,8 +11,9 @@
 # Extract descriptions that are unique words:
 #  sed -ne 's/.* # //p' Emoji.txt | sort | grep -v ' ' | while read i; do echo "$(grep "# $i" Emoji.txt | wc -l) $i"; done | grep '^1 '
 
-<Multi_key> <Multi_key> <f> <i> <t> <z> <3>                                     : "🏼" U1F3FC # Emoji modifier Fitzpatrick 3
+<Multi_key> <Multi_key> <f> <i> <t> <z> <3>       : "🏼" U1F3FC # Emoji modifier Fitzpatrick 3
 <Multi_key> <Multi_key> <q> <u> <e> <e> <r>       : "🖤🤎❤️🧡💛💚💙💜" # Rainbow of hearts
+<Multi_key> <Multi_key> <less> <greater>          : "◆" U25c6 # Black diamond
 
 # Emoticons (1F601 — 1F64F)
 <Multi_key> <Multi_key> <g> <r> <i> <n> <n> <i> <n> <g>                         : "😁" U1F601 # grinning face with smiling eyes
@@ -768,7 +769,7 @@
 <Multi_key> <Multi_key> <c> <o> <o> <l>                                         : "😎" U1F60E # smiling face with sunglasses
 <Multi_key> <Multi_key> <colon> <|>                                             : "😐" U1F610 # neutral face
 # "😑" U1F611 # expressionless face
-# "😕" U1F615 # confused face
+<Multi_key> <colon> <slash>                                                     : "😕" U1F615 # confused face
 # "😗" U1F617 # kissing face
 # "😙" U1F619 # kissing face with smiling eyes
 <Multi_key> <Multi_key> <colon> <p>                                             : "😛" U1F61B # face with stuck-out tongue
@@ -1580,7 +1581,7 @@
 # "🤦🏿‍♀️" U1F926 U1F3FF U200D U2640 UFE0F # woman facepalming: dark skin tone
 # "🤷" U1F937 # person shrugging
 # "🤷🏻" U1F937 U1F3FB # person shrugging: light skin tone
-# "🤷🏼" U1F937 U1F3FC # person shrugging: medium-light skin tone
+<Multi_key> <Multi_key> <s> <h> <r> <u> <g> : "🤷🏼" U1F937 U1F3FC # person shrugging: medium-light skin tone
 # "🤷🏽" U1F937 U1F3FD # person shrugging: medium skin tone
 # "🤷🏾" U1F937 U1F3FE # person shrugging: medium-dark skin tone
 # "🤷🏿" U1F937 U1F3FF # person shrugging: dark skin tone
