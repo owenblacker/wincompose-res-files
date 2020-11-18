@@ -176,8 +176,7 @@
 <Multi_key> <equal> <parenright> : "ツ" U30C4 # Katakana letter tu (uwu smile glyph)
 <Multi_key> <h> <w> <space>   : "Hello World"
 <Multi_key> <Down> <Right>    : "⤷"  U2937 # Arrow pointing downwards then curving rightwards
-<Multi_key> <asciicircum> <m> : "m̂" U006d U0302 # Latin small letter m + combining circumflex accent
-<Multi_key> <m> <asciicircum> : "m̂" U006d U0302 # Latin small letter m + combining circumflex accent
+<Multi_key> <l> <p>           : "via `/list-private` and `/join-private`"
 
 # Bidi marks
 <Multi_key> <l> <r> <m> : "‎" U200e # Bidi left-to-right mark
@@ -214,6 +213,8 @@
 <Multi_key> <underscore> <s>               : "s̱" # Latin small letter S with macron below
 <Multi_key> <S> <underscore>               : "S̱" # Latin capital letter S with macron below
 <Multi_key> <underscore> <S>               : "S̱" # Latin capital letter S with macron below
+<Multi_key> <asciicircum> <m>              : "m̂" U006d U0302 # Latin small letter m + combining circumflex accent
+<Multi_key> <m> <asciicircum>              : "m̂" U006d U0302 # Latin small letter m + combining circumflex accent
 
 # Unicode superscripts and subscripts
 <Multi_key> <asciicircum> <asciicircum> <a> : "ᵃ" U1D43 # Modifier letter small a (superscript)
