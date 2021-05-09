@@ -173,20 +173,20 @@
 <Multi_key> <b> <percent>           : "ب" U0628 # Arabic Letter Beh
 <Multi_key> <0> <percent>           : "ة" U0629 # Arabic Letter Teh Marbuta (tāʾ marbūṭah)
 <Multi_key> <t> <percent>           : "ت" U062a # Arabic Letter Teh
-<Multi_key> <h> <t> <percent>       : "ث" U062b # Arabic Letter Theh
+<Multi_key> <t> <h> <percent>       : "ث" U062b # Arabic Letter Theh
 <Multi_key> <j> <percent>           : "ج" U062c # Arabic Letter Jeem
 <Multi_key> <H> <percent>           : "ح" U062d # Arabic Letter Hah
 <Multi_key> <x> <percent>           : "خ" U062e # Arabic Letter Khah
 <Multi_key> <d> <percent>           : "د" U062f # Arabic Letter Dal
-<Multi_key> <h> <d> <percent>       : "ذ" U0630 # Arabic Letter Thal
+<Multi_key> <d> <h> <percent>       : "ذ" U0630 # Arabic Letter Thal
 <Multi_key> <r> <percent>           : "ر" U0631 # Arabic Letter Reh
 <Multi_key> <z> <percent>           : "ز" U0632 # Arabic Letter Zain
 <Multi_key> <s> <percent>           : "س" U0633 # Arabic Letter Seen
-<Multi_key> <h> <s> <percent>       : "ش" U0634 # Arabic Letter Sheen
+<Multi_key> <s> <h> <percent>       : "ش" U0634 # Arabic Letter Sheen
 <Multi_key> <S> <percent>           : "ص" U0635 # Arabic Letter Sad
 <Multi_key> <D> <percent>           : "ض" U0636 # Arabic Letter Dad
 <Multi_key> <T> <percent>           : "ط" U0637 # Arabic Letter Tah
-<Multi_key> <h> <D> <percent>       : "ظ" U0638 # Arabic Letter Zah
+<Multi_key> <D> <h> <percent>       : "ظ" U0638 # Arabic Letter Zah
 <Multi_key> <3> <percent>           : "ع" U0639 # Arabic Letter Ain
 <Multi_key> <g> <percent>           : "غ" U063a # Arabic Letter Ghain
 
@@ -212,7 +212,7 @@
 
 <Multi_key> <K> <percent>           : "ک" U06a9 # Arabic Letter Keheh
 <Multi_key> <G> <percent>           : "گ" U06af # Arabic Letter Gaf
-<Multi_key> <h> <8> <percent>       : "ھ" U06be # Arabic Letter Heh Doachashmee
+<Multi_key> <8> <percent>           : "ھ" U06be # Arabic Letter Heh Doachashmee
 
 <Multi_key> <numbersign> <0> <percent> : "٠" U0660 # Arabic-Indic Digit Zero
 <Multi_key> <numbersign> <1> <percent> : "١" U0661 # Arabic-Indic Digit One
