@@ -163,56 +163,56 @@
 <Multi_key> <percent> <dollar>      : "₪"  U20aa # New sheqel sign
 
 
-<Multi_key> <2> <percent>           : "ء" U0621 # Arabic Letter Hamza
-<Multi_key> <bar> <tilde> <percent> : "آ" U0622 # Arabic Letter Alef With Madda Above
-<Multi_key> <2> <A> <percent>       : "أ" U0623 # Arabic Letter Alef With Hamza Above
-<Multi_key> <2> <w> <percent>       : "ؤ" U0624 # Arabic Letter Waw With Hamza Above
-<Multi_key> <A> <2> <percent>       : "إ" U0625 # Arabic Letter Alef With Hamza Below
-<Multi_key> <2> <y> <percent>       : "ئ" U0626 # Arabic Letter Yeh With Hamza Above
-<Multi_key> <A> <percent>           : "ا" U0627 # Arabic Letter Alef
-<Multi_key> <b> <percent>           : "ب" U0628 # Arabic Letter Beh
-<Multi_key> <0> <percent>           : "ة" U0629 # Arabic Letter Teh Marbuta (tāʾ marbūṭah)
-<Multi_key> <t> <percent>           : "ت" U062a # Arabic Letter Teh
-<Multi_key> <h> <t> <percent>       : "ث" U062b # Arabic Letter Theh
-<Multi_key> <j> <percent>           : "ج" U062c # Arabic Letter Jeem
-<Multi_key> <H> <percent>           : "ح" U062d # Arabic Letter Hah
-<Multi_key> <x> <percent>           : "خ" U062e # Arabic Letter Khah
-<Multi_key> <d> <percent>           : "د" U062f # Arabic Letter Dal
-<Multi_key> <h> <d> <percent>       : "ذ" U0630 # Arabic Letter Thal
-<Multi_key> <r> <percent>           : "ر" U0631 # Arabic Letter Reh
-<Multi_key> <z> <percent>           : "ز" U0632 # Arabic Letter Zain
-<Multi_key> <s> <percent>           : "س" U0633 # Arabic Letter Seen
-<Multi_key> <h> <s> <percent>       : "ش" U0634 # Arabic Letter Sheen
-<Multi_key> <S> <percent>           : "ص" U0635 # Arabic Letter Sad
-<Multi_key> <D> <percent>           : "ض" U0636 # Arabic Letter Dad
-<Multi_key> <T> <percent>           : "ط" U0637 # Arabic Letter Tah
-<Multi_key> <h> <D> <percent>       : "ظ" U0638 # Arabic Letter Zah
-<Multi_key> <3> <percent>           : "ع" U0639 # Arabic Letter Ain
-<Multi_key> <g> <percent>           : "غ" U063a # Arabic Letter Ghain
+<Multi_key> <2> <percent>           : "ء" U0621 # Arabic Letter Hamza (ءـءـء)
+<Multi_key> <1> <asciitilde> <percent>: "آ" U0622 # Arabic Letter Alef With Madda Above (آـآـآ)
+<Multi_key> <2> <1> <percent>       : "أ" U0623 # Arabic Letter Alef With Hamza Above (أـأـأ)
+<Multi_key> <2> <w> <percent>       : "ؤ" U0624 # Arabic Letter Waw With Hamza Above (ؤـؤـؤ)
+<Multi_key> <A> <2> <percent>       : "إ" U0625 # Arabic Letter Alef With Hamza Below (إـإـإ)
+<Multi_key> <2> <y> <percent>       : "ئ" U0626 # Arabic Letter Yeh With Hamza Above (ئـئـئ)
+<Multi_key> <A> <percent>           : "ا" U0627 # Arabic Letter Alef (اـاـا)
+<Multi_key> <b> <percent>           : "ب" U0628 # Arabic Letter Beh (بـبـب)
+<Multi_key> <0> <percent>           : "ة" U0629 # Arabic Letter Teh Marbuta (tāʾ marbūṭah, ةـةـة)
+<Multi_key> <t> <percent>           : "ت" U062a # Arabic Letter Teh (تـتـت)
+<Multi_key> <h> <t> <percent>       : "ث" U062b # Arabic Letter Theh (ثـثـث)
+<Multi_key> <j> <percent>           : "ج" U062c # Arabic Letter Jeem (جـجـج)
+<Multi_key> <H> <percent>           : "ح" U062d # Arabic Letter Hah (حـحـح)
+<Multi_key> <x> <percent>           : "خ" U062e # Arabic Letter Khah (خـخـخ)
+<Multi_key> <d> <percent>           : "د" U062f # Arabic Letter Dal (دـدـد)
+<Multi_key> <h> <d> <percent>       : "ذ" U0630 # Arabic Letter Thal (ذـذـذ)
+<Multi_key> <r> <percent>           : "ر" U0631 # Arabic Letter Reh (رـرـر)
+<Multi_key> <z> <percent>           : "ز" U0632 # Arabic Letter Zain (زـزـز)
+<Multi_key> <s> <percent>           : "س" U0633 # Arabic Letter Seen (سـسـس)
+<Multi_key> <h> <s> <percent>       : "ش" U0634 # Arabic Letter Sheen (شـشـش)
+<Multi_key> <S> <percent>           : "ص" U0635 # Arabic Letter Sad (صـصـص)
+<Multi_key> <D> <percent>           : "ض" U0636 # Arabic Letter Dad (ضـضـض)
+<Multi_key> <T> <percent>           : "ط" U0637 # Arabic Letter Tah (طـطـط)
+<Multi_key> <Z> <percent>           : "ظ" U0638 # Arabic Letter Zah (ظـظـظ)
+<Multi_key> <3> <percent>           : "ع" U0639 # Arabic Letter Ain (عـعـع)
+<Multi_key> <g> <percent>           : "غ" U063a # Arabic Letter Ghain (غـغـغ)
 
 <Multi_key> <minus> <percent>       : "ـ" U0640 # Arabic Tatweel
-<Multi_key> <f> <percent>           : "ف" U0641 # Arabic Letter Feh
-<Multi_key> <q> <percent>           : "ق" U0642 # Arabic Letter Qaf
-<Multi_key> <k> <percent>           : "ك" U0643 # Arabic Letter Kaf
-<Multi_key> <l> <percent>           : "ل" U0644 # Arabic Letter Lam
-<Multi_key> <m> <percent>           : "م" U0645 # Arabic Letter Meem
-<Multi_key> <n> <percent>           : "ن" U0646 # Arabic Letter Noon
-<Multi_key> <h> <percent>           : "ه" U0647 # Arabic Letter Heh
-<Multi_key> <v> <percent>           : "و" U0648 # Arabic Letter Waw
-<Multi_key> <5> <percent>           : "ى" U0649 # Arabic Letter Alef Maksura (ʾalif maqṣūrah)
-<Multi_key> <y> <percent>           : "ي" U064a # Arabic Letter Yeh
-<Multi_key> <equals> <a> <percent>  : "	ً" U064b # Arabic Fathatan (A-nunation)
-<Multi_key> <equals> <u> <percent>  : "ٌ" U064c # Arabic Dammatan (U-nunation)
-<Multi_key> <equals> <i> <percent>  : "ٍ" U064d # Arabic Kasratan (I-nunation)
-<Multi_key> <a> <percent>           : "َ" U064e # Arabic Fatha (fatḥah: A-diacritic)
-<Multi_key> <u> <percent>           : "ُ" U064f # Arabic Damma (ḍammah: U-diacritic)
-<Multi_key> <i> <percent>           : "ِ" U0650 # Arabic Kasra (I-diacritic)
-<Multi_key> <w> <percent>           : "ّ" U0651 # Arabic Shadda (gemination)
-<Multi_key> <o> <percent>           : "ْ" U0652 # Arabic Sukun (sukūn: zero-vowel)
+<Multi_key> <f> <percent>           : "ف" U0641 # Arabic Letter Feh (فـفـف)
+<Multi_key> <q> <percent>           : "ق" U0642 # Arabic Letter Qaf (قـقـق)
+<Multi_key> <k> <percent>           : "ك" U0643 # Arabic Letter Kaf (كـكـك)
+<Multi_key> <l> <percent>           : "ل" U0644 # Arabic Letter Lam (لـلـل)
+<Multi_key> <m> <percent>           : "م" U0645 # Arabic Letter Meem (مـمـم)
+<Multi_key> <n> <percent>           : "ن" U0646 # Arabic Letter Noon (نـنـن)
+<Multi_key> <h> <percent>           : "ه" U0647 # Arabic Letter Heh (هـهـه)
+<Multi_key> <v> <percent>           : "و" U0648 # Arabic Letter Waw (وـوـو)
+<Multi_key> <5> <percent>           : "ى" U0649 # Arabic Letter Alef Maksura (ʾalif maqṣūrah, ىـىـى)
+<Multi_key> <y> <percent>           : "ي" U064a # Arabic Letter Yeh (يـيـي)
+<Multi_key> <a> <equal> <percent>   : "ً" U064b # Arabic Fathatan (A-nunation, ًد)
+<Multi_key> <u> <equal> <percent>   : "ٌ" U064c # Arabic Dammatan (U-nunation, دٌ)
+<Multi_key> <i> <equal> <percent>   : "ٍ" U064d # Arabic Kasratan (I-nunation, دٍ)
+<Multi_key> <a> <percent>           : "َ" U064e # Arabic Fatha (fatḥah: A-diacritic, دَ)
+<Multi_key> <u> <percent>           : "ُ" U064f # Arabic Damma (ḍammah: U-diacritic, دُ)
+<Multi_key> <i> <percent>           : "ِ" U0650 # Arabic Kasra (I-diacritic, دُ)
+<Multi_key> <w> <percent>           : "ّ" U0651 # Arabic Shadda (gemination, دّ)
+<Multi_key> <o> <percent>           : "ْ" U0652 # Arabic Sukun (sukūn: zero-vowel, دْ)
 
-<Multi_key> <K> <percent>           : "ک" U06a9 # Arabic Letter Keheh
-<Multi_key> <G> <percent>           : "گ" U06af # Arabic Letter Gaf
-<Multi_key> <8> <percent>           : "ھ" U06be # Arabic Letter Heh Doachashmee
+<Multi_key> <K> <percent>           : "ک" U06a9 # Arabic Letter Keheh (کـکـک)
+<Multi_key> <G> <percent>           : "گ" U06af # Arabic Letter Gaf (گـگـگ)
+<Multi_key> <8> <percent>           : "ھ" U06be # Arabic Letter Heh Doachashmee (ھـھـھ)
 
 <Multi_key> <numbersign> <0> <percent> : "٠" U0660 # Arabic-Indic Digit Zero
 <Multi_key> <numbersign> <1> <percent> : "١" U0661 # Arabic-Indic Digit One
