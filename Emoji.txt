@@ -3937,4 +3937,10 @@
 <Multi_key> <Multi_key> <f> <l> <a> <g> < > <E> <n> <g> <l> <a> <n> <d> : "🏴󠁧󠁢󠁥󠁮󠁧󠁿" U1F3F4 UE0067 UE0062 UE0065 UE006E UE0067 UE007F # flag: England
 <Multi_key> <Multi_key> <f> <l> <a> <g> < > <S> <c> <o> <t> <l> <a> <n> <d> : "🏴󠁧󠁢󠁳󠁣󠁴󠁿" U1F3F4 UE0067 UE0062 UE0073 UE0063 UE0074 UE007F # flag: Scotland
 <Multi_key> <Multi_key> <f> <l> <a> <g> < > <W> <a> <l> <e> <s> : "🏴󠁧󠁢󠁷󠁬󠁳󠁿" U1F3F4 UE0067 UE0062 UE0077 UE006C UE0073 UE007F # flag: Wales
-flag:
+
+# Added from v0.9.10 update
+<Multi_key> <b> <z> <h>             : "🏴󠁦󠁲󠁢󠁲󠁥󠁿" # Bretagne flag (gwenn-ha-du)
+<Multi_key> <Multi_key> <b> <z> <h> : "🏴󠁦󠁲󠁢󠁲󠁥󠁿" # Bretagne flag (gwenn-ha-du)
+<Multi_key> <Multi_key> <s> <e> <n> <y> <e> <r> <a> : "🏴󠁥󠁳󠁣󠁴󠁿" # Catalogne flag (senyera)
+<Multi_key> <Multi_key> <i> <k> <u> <r> <r> <i> <n> <a> : "🏴󠁥󠁳󠁰󠁶󠁿" # Basque flag (ikurrina)
+<Multi_key> <Multi_key> <a> <n> <a> <r> <c> <h> <y> : "🏴️‍🅰️" # Anarchy flag
