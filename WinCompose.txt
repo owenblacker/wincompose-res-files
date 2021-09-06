@@ -320,3 +320,9 @@
 <Multi_key> <x> <r>                        : "⧖" U29D6 # White hourglass (Extinction Rebellion symbol)
 
 <Multi_key> <at> <asciitilde>              : "¶҂Ϡწ₪" U00b6 U03e0 U0482 U10ec U20aa "Pilcrow Grek-sampi Cyrl-thousands Geor-ts′ili Hebr-sheqel for labelling nonsense"
+
+<Multi_key> <b> <z> <h>             : "🏴󠁦󠁲󠁢󠁲󠁥󠁿" # Bretagne flag (gwenn-ha-du)
+<Multi_key> <Multi_key> <b> <z> <h> : "🏴󠁦󠁲󠁢󠁲󠁥󠁿" # Bretagne flag (gwenn-ha-du)
+<Multi_key> <Multi_key> <s> <e> <n> <y> <e> <r> <a> : "🏴󠁥󠁳󠁣󠁴󠁿" # Catalogne flag (senyera)
+<Multi_key> <Multi_key> <i> <k> <u> <r> <r> <i> <n> <a> : "🏴󠁥󠁳󠁰󠁶󠁿" # Basque flag (ikurrina)
+<Multi_key> <Multi_key> <a> <n> <a> <r> <c> <h> <y> : "🏴️‍🅰️" # Anarchy flag
