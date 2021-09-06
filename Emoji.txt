@@ -13,6 +13,7 @@
 
 <Multi_key> <Multi_key> <f> <i> <t> <z> <3>       : "🏼" U1F3FC # Emoji modifier Fitzpatrick 3
 <Multi_key> <Multi_key> <q> <u> <e> <e> <r>       : "🖤🤎❤️🧡💛💚💙💜" # Rainbow of hearts
+<Multi_key> <Multi_key> <h> <t> <q>               : "💙💗🤍💗💙" # Rainbow of trans hearts
 <Multi_key> <Multi_key> <less> <greater>          : "◆" U25c6 # Black diamond
 
 # Emoticons (1F601 — 1F64F)
