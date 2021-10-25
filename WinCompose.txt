@@ -348,3 +348,4 @@
 <Multi_key> <Multi_key> <a> <n> <a> <r> <c> <h> <y> : "🏴️‍🅰️" # Anarchy flag
 
 <Multi_key> <t> <l>                       : "[[Template:Lang|Language tagging]]" # For Wikipedia edit summaries
+<Multi_key> <g> <r> <q>                   : "Is there any LGBTQ+ representation in this book?" # For Goodreads
