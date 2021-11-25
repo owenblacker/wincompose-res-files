@@ -216,7 +216,7 @@
 <Multi_key> <h> <c> <percent>       : "چ" U0686 # Arabic letter Tcheh (چـچـچ)
 <Multi_key> <d> <d> <percent>       : "ڈ" U0688 # Arabic letter Ddal (ڈـڈـڈ, Kashmiri & Urdu /ɖ/)
 <Multi_key> <R> <percent>           : "ڑ" U0691 # Arabic letter Rreh (ڑـڑـڑ, Kashmiri & Urdu /ɽ/)
-<Multi_key> <r> <v> <percent>       : "ڕ‎" U0695 # Arabic letter Reh with small V below (ڕ‎ـڕ‎ـڕ‎, Kurdish /r/ trill)
+<Multi_key> <r> <v> <percent>       : "ڕ" U0695 # Arabic letter Reh with small V below (ڕـڕـڕ, Kurdish /r/ trill)
 <Multi_key> <z> <colon> <percent>   : "ږ" U0696 # Arabic letter Reh with dot below and dot above (ږـږـږ, Pashto /ʐ/)
 <Multi_key> <h> <z> <percent>       : "ژ" U0698 # Arabic letter Jeh (ژـژـژ, Farsi & Kurdish /ʒ/)
 <Multi_key> <s> <colon> <percent>   : "ښ" U069a # Arabic letter Seen with dot below and dot above (ښـښـښ, Pashto /ʂ/)
