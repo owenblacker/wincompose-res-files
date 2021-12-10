@@ -349,3 +349,10 @@
 
 <Multi_key> <t> <l>                       : "[[Template:Lang|Language tagging]]" # For Wikipedia edit summaries
 <Multi_key> <g> <r> <q>                   : "Is there any LGBTQ+ representation in this book?" # For Goodreads
+
+<Multi_key> <o> <b> <a> <r> : "أوين بْلاَكْر" # Owen Blacker in Arabic
+<Multi_key> <o> <b> <h> <e> : "אוֶֹן בּלָקָה" # Owen Blacker in Hebrew
+<Multi_key> <o> <b> <r> <u> : "Оуэн Блэкер" # Owen Blacker in Russian
+<Multi_key> <o> <b> <k> <o> : "오왼 버래커" # Owen Blacker in Korean
+<Multi_key> <o> <b> <j> <a> : "オーウェン ブラッカー" # Owen Blacker in Japanese
+<Multi_key> <o> <b> <z> <h> : "ㄛㄨㄝㄋ ㄅㄌㄚㄎㄦ" # Owen Blacker in Zhuyin / Bopomofo
