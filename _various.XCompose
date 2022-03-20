@@ -1,0 +1,32 @@
+# for Emacs: -*- coding: utf-8 -*-
+
+
+<Multi_key> <equal> <parenright> : "ツ" U30C4 # Katakana letter tu (uwu smile glyph)
+<Multi_key> <h> <w> <space>   : "Hello World"
+<Multi_key> <Down> <Right>    : "⤷"  U2937 # Arrow pointing downwards then curving rightwards
+
+# Bidi marks
+<Multi_key> <l> <r> <m> : "‎" U200e # Bidi left-to-right mark
+<Multi_key> <r> <l> <m> : "‏" U200f # Bidi right-to-left mark
+<Multi_key> <a> <l> <m> : "؜" U061c # Bidi Arabic letter mark (sim to RLM)
+
+# Miscellaneous signs
+<Multi_key> <minus> <minus> <equal>        : "−"  U2212 # Minus sign
+<Multi_key> <p> <e> <r>                    : "⅌"  U214c # Per sign
+<Multi_key> <space> <backslash> <comma>    : " " U200A # Hairline space
+<Multi_key> <equal> <minus>                : "‑" U2011 # Non-breaking hyphen
+<Multi_key> <x> <r>                        : "⧖" U29D6 # White hourglass (Extinction Rebellion symbol)
+
+<Multi_key> <at> <asciitilde>              : "¶҂Ϡწ₪" U00b6 U03e0 U0482 U10ec U20aa # Pilcrow Grek-sampi Cyrl-thousands Geor-ts′ili Hebr-sheqel for labelling nonsense
+
+
+<Multi_key> <t> <l>           : "[[Template:Lang|Language tagging]]" # For Wikipedia edit summaries
+<Multi_key> <g> <r> <q>       : "Is there any LGBTQ+ representation in this book?" # For Goodreads
+<Multi_key> <l> <p>           : "via `/list-private` and `/join-private`"
+
+<Multi_key> <o> <b> <a> <r> : "أوين بْلاَكْر" # Owen Blacker in Arabic
+<Multi_key> <o> <b> <h> <e> : "אוֶֹן בּלָקָה" # Owen Blacker in Hebrew
+<Multi_key> <o> <b> <r> <u> : "Оуэн Блэкер" # Owen Blacker in Russian
+<Multi_key> <o> <b> <k> <o> : "오왼 버래커" # Owen Blacker in Korean
+<Multi_key> <o> <b> <j> <a> : "オーウェン ブラッカー" # Owen Blacker in Japanese
+<Multi_key> <o> <b> <z> <h> : "ㄛㄨㄝㄋ ㄅㄌㄚㄎㄦ" # Owen Blacker in Zhuyin / Bopomofo

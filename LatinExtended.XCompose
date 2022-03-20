@@ -1,0 +1,32 @@
+# Latin extended characters
+<Multi_key> <o> <k> <i> <n> <a>            : "ʻ" U02BB # Modifier letter turned comma (ʻOkina)
+<Multi_key> <w> <y> <n> <n>                : "ƿ" U01BF # Latin letter wynn (U+01BF)
+<Multi_key> <W> <Y> <N> <N>                : "Ƿ" U01F7 # Latin capital letter wynn (U+01F7)
+<Multi_key> <h> <v>                        : "ƕ" U0195 # Latin small letter hv (U+0195)
+<Multi_key> <H> <V>                        : "Ƕ" U01F6 # Latin capital letter hwair (U+01F6)
+<Multi_key> <y> <r>                        : "ʀ" U0280 # Latin letter small capital r
+<Multi_key> <Y> <R>                        : "Ʀ" U01a6 # Latin letter YR
+<Multi_key> <minus> <minus> <a> <e>        : "Ǣ" U01e2 # Latin capital letter AE with macron
+<Multi_key> <minus> <minus> <A> <E>        : "ǣ" U01e3 # Latin small letter AE with macron
+<Multi_key> <minus> <apostrophe> <a> <e>   : "Ǽ" U01fc # Latin capital letter AE with acute
+<Multi_key> <minus> <apostrophe> <A> <E>   : "ǽ" U01fd # Latin small letter AE with acute
+<Multi_key> <slash> <apostrophe> <o>       : "Ǿ" U01fe # Latin capital letter O with stroke and acute
+<Multi_key> <slash> <apostrophe> <O>       : "ǿ" U01ff # Latin small letter O with stroke and acute
+<Multi_key> <c> <minus>                    : "c̄" # Latin small letter C with macron above
+<Multi_key> <minus> <c>                    : "c̄" # Latin small letter C with macron above
+<Multi_key> <C> <minus>                    : "C̄" # Latin capital letter C with macron above
+<Multi_key> <minus> <C>                    : "C̄" # Latin capital letter C with macron above
+<Multi_key> <c> <underscore>               : "c̱" # Latin small letter C with macron below
+<Multi_key> <underscore> <c>               : "c̱" # Latin small letter C with macron below
+<Multi_key> <C> <underscore>               : "C̱" # Latin capital letter C with macron below
+<Multi_key> <underscore> <C>               : "C̱" # Latin capital letter C with macron below
+<Multi_key> <s> <minus>                    : "s̄" # Latin small letter S with macron above
+<Multi_key> <minus> <s>                    : "s̄" # Latin small letter S with macron above
+<Multi_key> <S> <minus>                    : "S̄" # Latin capital letter S with macron above
+<Multi_key> <minus> <S>                    : "S̄" # Latin capital letter S with macron above
+<Multi_key> <s> <underscore>               : "s̱" # Latin small letter S with macron below
+<Multi_key> <underscore> <s>               : "s̱" # Latin small letter S with macron below
+<Multi_key> <S> <underscore>               : "S̱" # Latin capital letter S with macron below
+<Multi_key> <underscore> <S>               : "S̱" # Latin capital letter S with macron below
+<Multi_key> <asciicircum> <m>              : "m̂" U006d U0302 # Latin small letter m + combining circumflex accent
+<Multi_key> <m> <asciicircum>              : "m̂" U006d U0302 # Latin small letter m + combining circumflex accent

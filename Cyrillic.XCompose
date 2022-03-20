@@ -1,0 +1,94 @@
+# Cyrillic alphabet
+<Multi_key> <ampersand> <A>              : "А"  U0410 # Cyrillic capital letter a
+<Multi_key> <ampersand> <B>              : "Б"  U0411 # Cyrillic capital letter be
+<Multi_key> <ampersand> <V>              : "В"  U0412 # Cyrillic capital letter ve
+<Multi_key> <ampersand> <G>              : "Г"  U0413 # Cyrillic capital letter ghe
+<Multi_key> <ampersand> <D>              : "Д"  U0414 # Cyrillic capital letter de
+<Multi_key> <ampersand> <Y> <D>          : "Ђ"  U0402 # Cyrillic capital letter dje
+<Multi_key> <ampersand> <Y> <E>          : "Е"  U0415 # Cyrillic capital letter ie
+<Multi_key> <ampersand> <Y> <O>          : "Ё"  U0401 # Cyrillic capital letter io
+<Multi_key> <ampersand> <H> <Z>          : "Ж"  U0416 # Cyrillic capital letter zhe
+<Multi_key> <ampersand> <Z>              : "З"  U0417 # Cyrillic capital letter ze
+<Multi_key> <ampersand> <I>              : "И"  U0418 # Cyrillic capital letter i
+<Multi_key> <ampersand> <Y> <Y>          : "Й"  U0419 # Cyrillic capital letter short i
+<Multi_key> <ampersand> <K>              : "К"  U041a # Cyrillic capital letter ka
+<Multi_key> <ampersand> <Q>              : "Қ"  U049a # Cyrillic capital letter ka with descender
+<Multi_key> <ampersand> <L>              : "Л"  U041b # Cyrillic capital letter el
+<Multi_key> <ampersand> <Y> <L>          : "Љ"  U0409 # Cyrillic capital letter lje
+<Multi_key> <ampersand> <M>              : "М"  U041c # Cyrillic capital letter em
+<Multi_key> <ampersand> <N>              : "Н"  U041d # Cyrillic capital letter en
+<Multi_key> <ampersand> <Y> <N>          : "Њ"  U040a # Cyrillic capital letter nje
+<Multi_key> <ampersand> <H> <N>          : "Ң"  U04a2 # Cyrillic capital letter en with descender (NG)
+<Multi_key> <ampersand> <O>              : "О"  U041e # Cyrillic capital letter o
+<Multi_key> <ampersand> <P>              : "П"  U041f # Cyrillic capital letter pe
+<Multi_key> <ampersand> <R>              : "Р"  U0420 # Cyrillic capital letter er
+<Multi_key> <ampersand> <S>              : "С"  U0421 # Cyrillic capital letter es
+<Multi_key> <ampersand> <T>              : "Т"  U0422 # Cyrillic capital letter te
+<Multi_key> <ampersand> <Y> <C>          : "Ћ"  U040b # Cyrillic capital letter tshe
+<Multi_key> <ampersand> <Y> <K>          : "Ќ"  U040c # Cyrillic capital letter kje
+<Multi_key> <ampersand> <U>              : "У"  U0423 # Cyrillic capital letter u
+<Multi_key> <ampersand> <H> <Y>          : "Ү"  U04ae # Cyrillic capital letter straight u (Y)
+<Multi_key> <ampersand> <F>              : "Ф"  U0424 # Cyrillic capital letter ef
+<Multi_key> <ampersand> <H> <K>          : "Х"  U0425 # Cyrillic capital letter ha
+<Multi_key> <ampersand> <C>              : "Ц"  U0426 # Cyrillic capital letter tse
+<Multi_key> <ampersand> <H> <C>          : "Ч"  U0427 # Cyrillic capital letter che
+<Multi_key> <ampersand> <H> <D>          : "Џ"  U040f # Cyrillic capital letter dzhe
+<Multi_key> <ampersand> <H> <S>          : "Ш"  U0428 # Cyrillic capital letter sha
+<Multi_key> <ampersand> <Y> <S>          : "Щ"  U0429 # Cyrillic capital letter shcha
+<Multi_key> <ampersand> <H> <at>         : "Ъ"  U042a # Cyrillic capital letter hard sign
+<Multi_key> <ampersand> <Y> <I>          : "Ы"  U042b # Cyrillic capital letter yeru
+<Multi_key> <ampersand> <at>             : "Ь"  U042c # Cyrillic capital letter soft sign
+<Multi_key> <ampersand> <E>              : "Э"  U042d # Cyrillic capital letter e
+<Multi_key> <ampersand> <Y> <U>          : "Ю"  U042e # Cyrillic capital letter yu
+<Multi_key> <ampersand> <Y> <A>          : "Я"  U042f # Cyrillic capital letter ya
+<Multi_key> <ampersand> <H> <A>          : "Ѣ"  U0462 # Cyrillic capital letter yat
+<Multi_key> <ampersand> <H> <Q>          : "Ҁ"  U0480 # Cyrillic capital letter koppa (Q)
+
+<Multi_key> <ampersand> <a>              : "а"  U0430 # Cyrillic small letter a
+<Multi_key> <ampersand> <b>              : "б"  U0431 # Cyrillic small letter be
+<Multi_key> <ampersand> <v>              : "в"  U0432 # Cyrillic small letter ve
+<Multi_key> <ampersand> <g>              : "г"  U0433 # Cyrillic small letter ghe
+<Multi_key> <ampersand> <d>              : "д"  U0434 # Cyrillic small letter de
+<Multi_key> <ampersand> <y> <d>          : "ђ"  U0452 # Cyrillic small letter dje
+<Multi_key> <ampersand> <y> <e>          : "е"  U0435 # Cyrillic small letter ie
+<Multi_key> <ampersand> <y> <o>          : "ё"  U0451 # Cyrillic small letter io
+<Multi_key> <ampersand> <h> <z>          : "ж"  U0436 # Cyrillic small letter zhe
+<Multi_key> <ampersand> <z>              : "з"  U0437 # Cyrillic small letter ze
+<Multi_key> <ampersand> <i>              : "и"  U0438 # Cyrillic small letter i
+<Multi_key> <ampersand> <y> <y>          : "й"  U0439 # Cyrillic small letter short i
+<Multi_key> <ampersand> <k>              : "к"  U043a # Cyrillic small letter ka
+<Multi_key> <ampersand> <q>              : "қ"  U049b # Cyrillic small letter ka with descender
+<Multi_key> <ampersand> <l>              : "л"  U043b # Cyrillic small letter el
+<Multi_key> <ampersand> <y> <l>          : "љ"  U0459 # Cyrillic small letter lje
+<Multi_key> <ampersand> <m>              : "м"  U043c # Cyrillic small letter em
+<Multi_key> <ampersand> <n>              : "н"  U043d # Cyrillic small letter en
+<Multi_key> <ampersand> <y> <n>          : "њ"  U045a # Cyrillic small letter nje
+<Multi_key> <ampersand> <h> <n>          : "ң"  U04a3 # Cyrillic small letter en with descender (NG)
+<Multi_key> <ampersand> <o>              : "о"  U043e # Cyrillic small letter o
+<Multi_key> <ampersand> <p>              : "п"  U043f # Cyrillic small letter pe
+<Multi_key> <ampersand> <r>              : "р"  U0440 # Cyrillic small letter er
+<Multi_key> <ampersand> <s>              : "с"  U0441 # Cyrillic small letter es
+<Multi_key> <ampersand> <t>              : "т"  U0442 # Cyrillic small letter te
+<Multi_key> <ampersand> <y> <c>          : "ћ"  U045b # Cyrillic small letter tshe
+<Multi_key> <ampersand> <y> <k>          : "ќ"  U045c # Cyrillic small letter kje
+<Multi_key> <ampersand> <u>              : "у"  U0443 # Cyrillic small letter u
+<Multi_key> <ampersand> <h> <y>          : "ү"  U0443 # Cyrillic small letter straight u (Y)
+<Multi_key> <ampersand> <f>              : "ф"  U0444 # Cyrillic small letter ef
+<Multi_key> <ampersand> <h> <k>          : "х"  U0445 # Cyrillic small letter ha
+<Multi_key> <ampersand> <c>              : "ц"  U0446 # Cyrillic small letter tse
+<Multi_key> <ampersand> <h> <c>          : "ч"  U0447 # Cyrillic small letter che
+<Multi_key> <ampersand> <h> <d>          : "џ"  U045f # Cyrillic small letter dzhe
+<Multi_key> <ampersand> <h> <s>          : "ш"  U0448 # Cyrillic small letter sha
+<Multi_key> <ampersand> <y> <s>          : "щ"  U0449 # Cyrillic small letter shcha
+<Multi_key> <ampersand> <h> <apostrophe> : "ъ"  U044a # Cyrillic small letter hard sign
+<Multi_key> <ampersand> <y> <i>          : "ы"  U044b # Cyrillic small letter yeru
+<Multi_key> <ampersand> <apostrophe>     : "ь"  U044c # Cyrillic small letter soft sign
+<Multi_key> <ampersand> <e>              : "э"  U044d # Cyrillic small letter e
+<Multi_key> <ampersand> <y> <u>          : "ю"  U044e # Cyrillic small letter yu
+<Multi_key> <ampersand> <y> <a>          : "я"  U044f # Cyrillic small letter ya
+<Multi_key> <ampersand> <h> <a>          : "ѣ"  U0463 # Cyrillic small letter yat
+<Multi_key> <ampersand> <h> <q>          : "ҁ"  U0481 # Cyrillic small letter koppa (Q)
+
+# Russian Ruble sign
+<Multi_key> <P> <minus> : "₽"    U20bd # Ruble sign
+<Multi_key> <p> <minus> : "₽"    U20bd # Ruble sign
