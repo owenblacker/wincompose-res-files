@@ -60,7 +60,7 @@
 <Multi_key> <K> <percent>           : "ک" U06a9 # Arabic Letter Keheh (کـکـک)
 <Multi_key> <N> <percent>           : "ڭ" U06ad # Arabic letter ng (ڭـڭـڭ, Kaf with 3 dots above)
 <Multi_key> <G> <percent>           : "گ" U06af # Arabic Letter Gaf (گـگـگ)
-<Multi_key> <tilde> <percent>       : "ں" U06ba # Arabic letter Noon Ghunna (ںـںـں, Pashto & Urdu nasalisation)
+<Multi_key> <asciitilde> <percent>  : "ں" U06ba # Arabic letter Noon Ghunna (ںـںـں, Pashto & Urdu nasalisation)
 <Multi_key> <L> <percent>           : "ڵ" U06b5 # Arabic letter Lam with small V (ڵـڵـڵ, Kurdish /ɫ/)
 <Multi_key> <8> <percent>           : "ھ" U06be # Arabic Letter Heh Doachashmee (ھـھـھ)
 <Multi_key> <E> <percent>           : "ۀ" U06c0 # Arabic letter Heh with Yeh above (ۀـۀـۀ, Pashto /ə/)
