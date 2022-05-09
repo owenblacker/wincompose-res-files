@@ -16,6 +16,9 @@
 <Multi_key> <space> <backslash> <comma>    : " " U200A # Hairline space
 <Multi_key> <equal> <minus>                : "‑" U2011 # Non-breaking hyphen
 <Multi_key> <x> <r>                        : "⧖" U29D6 # White hourglass (Extinction Rebellion symbol)
+<Multi_key> <equal> <f> <l>               : "❦" U2766 # Floral heart (fleuron)
+<Multi_key> <less> <f> <l>                 : "☙" U2619 # Reversed rotated floral heart bullet (left-pointing fleuron)
+<Multi_key> <greater> <f> <l>              : "❧" U2767 # Rotated floral heart bullet (right-pointing fleuron)
 
 <Multi_key> <at> <asciitilde>              : "¶҂Ϡწ₪" U00b6 U03e0 U0482 U10ec U20aa # Pilcrow Grek-sampi Cyrl-thousands Geor-ts′ili Hebr-sheqel for labelling nonsense
 
