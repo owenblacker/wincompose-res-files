@@ -25,7 +25,7 @@
 
 <Multi_key> <t> <l>           : "[[Template:Lang|Language tagging]]" # For Wikipedia edit summaries
 <Multi_key> <g> <r> <q>       : "Is there any LGBTQ+ representation in this book?" # For Goodreads
-<Multi_key> <l> <p>           : "via `/list-private` and `/join-private`"
+<Multi_key> <l> <p>           : "available via `/list-private` and `/join-private`."
 
 <Multi_key> <o> <b> <a> <r> : "أوين بْلاَكْر" # Owen Blacker in Arabic
 <Multi_key> <o> <b> <h> <e> : "אוֶֹן בּלָקָה" # Owen Blacker in Hebrew
