@@ -12,7 +12,8 @@
 #  sed -ne 's/.* # //p' Emoji.txt | sort | grep -v ' ' | while read i; do echo "$(grep "# $i" Emoji.txt | wc -l) $i"; done | grep '^1 '
 
 <Multi_key> <Multi_key> <f> <i> <t> <z> <3>       : "🏼" U1F3FC # Emoji modifier Fitzpatrick 3
-<Multi_key> <Multi_key> <q> <u> <e> <e> <r>       : "🖤🤎❤️🧡💛💚💙💜" # Rainbow of hearts
+# <Multi_key> <Multi_key> <q> <u> <e> <e> <r>       : "🖤🤎❤️🧡💛💚💙💜" # Rainbow of hearts
+<Multi_key> <Multi_key> <q> <u> <e> <e> <r>       : "🤍🩷🩵🤎🖤❤️🧡💛💚💙💜" # Progress pride hearts
 <Multi_key> <Multi_key> <h> <t> <q>               : "💙💗🤍💗💙" # Rainbow of trans hearts
 <Multi_key> <Multi_key> <r> <h> <t>               : "💙💗🤍💗💙" # Rainbow of trans hearts
 <Multi_key> <Multi_key> <r> <t> <h>               : "💙💗🤍💗💙" # Rainbow of trans hearts
