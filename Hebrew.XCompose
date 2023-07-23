@@ -33,9 +33,17 @@
 <Multi_key> <percent> <r>           : "ר"  U05E8 # Hebrew Letter Resh
 <Multi_key> <percent> <S>           : "ש"  U05E9 # Hebrew Letter Shin (without dot)
 <Multi_key> <percent> <T>           : "ת"  U05EA # Hebrew Letter Tav
-<Multi_key> <percent> <W>           : "װ"  U05F0 # Hebrew Ligature Yiddish Double Vav
-<Multi_key> <percent> <V>           : "ױ"  U05F1 # Hebrew Ligature Yiddish Vav Yod
-<Multi_key> <percent> <Y>           : "ײ"  U05F2 # Hebrew Ligature Yiddish Double Yod
+<Multi_key> <percent> <2> <v>       : "װ"  U05F0 # Hebrew Ligature Yiddish Double Vav
+<Multi_key> <percent> <V> <y>       : "ױ"  U05F1 # Hebrew Ligature Yiddish Vav Yod
+<Multi_key> <percent> <2> <y>       : "ײ"  U05F2 # Hebrew Ligature Yiddish Double Yod
 <Multi_key> <percent> <apostrophe>  : "׳"  U05F3 # Hebrew Punctuation Geresh
 <Multi_key> <percent> <quotedbl>    : "״"  U05F4 # Hebrew Punctuation Gershayim
-<Multi_key> <percent> <dollar>      : "₪"  U20aa # New sheqel sign
+<Multi_key> <percent> <dollar>      : "₪"  U20AA # New sheqel sign
+<Multi_key> <percent> <exclam>      : "יִ"  UFB1D # Hebrew Letter Yod with Hiriq (Yiddish khirik yud)
+<Multi_key> <percent> <underscore>  : "ײַ"  UFB1F # Hebrew Ligature Yiddish Yod Yod Patah (Yiddish pasekh tsvey yudn)
+<Multi_key> <percent> <A>           : "אַ"  UFB2E # Hebrew Letter Alef with Patah (Yiddish pasekh alef)
+<Multi_key> <percent> <o>           : "אָ"  UFB2F # Hebrew Letter Alef with Qamats (Yiddish komets alef)
+<Multi_key> <percent> <V> <minus>   : "בֿ"  UFB4C # Hebrew Letter Bet with Rafe (Yiddish veys, v)
+<Multi_key> <percent> <X>           : "כֿ"  UFB4D # Hebrew Letter Kaf with Rafe (Yiddish non-YIVO khof)
+<Multi_key> <percent> <f>           : "פֿ"  UFB4E # Hebrew Letter Pe with Rafe (Yiddish YIVO fey)
+<Multi_key> <percent> <Z>           : "דזש" U05D3 U05D6 U05E9 # Yiddish daled zayen shin (Yiddish d͡ʒ)
