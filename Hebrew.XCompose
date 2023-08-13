@@ -33,9 +33,9 @@
 <Multi_key> <percent> <r>           : "ר"  U05E8 # Hebrew Letter Resh
 <Multi_key> <percent> <S>           : "ש"  U05E9 # Hebrew Letter Shin (without dot)
 <Multi_key> <percent> <T>           : "ת"  U05EA # Hebrew Letter Tav
-<Multi_key> <percent> <2> <v>       : "װ"  U05F0 # Hebrew Ligature Yiddish Double Vav
+<Multi_key> <percent> <V> <2>       : "װ"  U05F0 # Hebrew Ligature Yiddish Double Vav
 <Multi_key> <percent> <V> <y>       : "ױ"  U05F1 # Hebrew Ligature Yiddish Vav Yod
-<Multi_key> <percent> <2> <y>       : "ײ"  U05F2 # Hebrew Ligature Yiddish Double Yod
+<Multi_key> <percent> <Y>           : "ײ"  U05F2 # Hebrew Ligature Yiddish Double Yod
 <Multi_key> <percent> <apostrophe>  : "׳"  U05F3 # Hebrew Punctuation Geresh
 <Multi_key> <percent> <quotedbl>    : "״"  U05F4 # Hebrew Punctuation Gershayim
 <Multi_key> <percent> <dollar>      : "₪"  U20AA # New sheqel sign
