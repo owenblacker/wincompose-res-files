@@ -176,23 +176,24 @@
 <Multi_key> <Multi_key> <bracketleft> <s> <o> <s> <bracketright>                : "🆘" U1F198 # squared sos
 <Multi_key> <Multi_key> <bracketleft> <u> <p> <!> <bracketright>                : "🆙" U1F199 # squared up with exclamation mark
 <Multi_key> <Multi_key> <bracketleft> <v> <s> <bracketright>                    : "🆚" U1F19A # squared vs
-<Multi_key> <Multi_key> <f> <l> <a> <g> <a> <u>                     : "🇦🇺" # AU flag
-<Multi_key> <Multi_key> <f> <l> <a> <g> <b> <r>                     : "🇧🇷" # BR flag
-<Multi_key> <Multi_key> <f> <l> <a> <g> <c> <n>                     : "🇨🇳" # CN flag
-<Multi_key> <Multi_key> <f> <l> <a> <g> <d> <e>                     : "🇩🇪" # DE flag
-<Multi_key> <Multi_key> <f> <l> <a> <g> <e> <s>                     : "🇪🇸" # ES flag
-<Multi_key> <Multi_key> <f> <l> <a> <g> <e> <u>                     : "🇪🇺" # EU flag
-<Multi_key> <Multi_key> <f> <l> <a> <g> <f> <r>                     : "🇫🇷" # FR flag
-<Multi_key> <Multi_key> <f> <l> <a> <g> <g> <b>                     : "🇬🇧" # GB flag
-<Multi_key> <Multi_key> <f> <l> <a> <g> <i> <t>                     : "🇮🇹" # IT flag
-<Multi_key> <Multi_key> <f> <l> <a> <g> <j> <p>                     : "🇯🇵" # JP flag
-<Multi_key> <Multi_key> <f> <l> <a> <g> <k> <r>                     : "🇰🇷" # KR flag
-<Multi_key> <Multi_key> <f> <l> <a> <g> <m> <x>                     : "🇲🇽" # MX flag
-<Multi_key> <Multi_key> <f> <l> <a> <g> <n> <l>                     : "🇳🇱" # NL flag
-<Multi_key> <Multi_key> <f> <l> <a> <g> <n> <z>                     : "🇳🇿" # NZ flag
-<Multi_key> <Multi_key> <f> <l> <a> <g> <p> <l>                     : "🇵🇱" # PL flag
-<Multi_key> <Multi_key> <f> <l> <a> <g> <r> <u>                     : "🇷🇺" # RU flag
-<Multi_key> <Multi_key> <f> <l> <a> <g> <u> <s>                     : "🇺🇸" # US flag
+<Multi_key> <Multi_key> <f> <l> <a> <g> <a> <u>                     : "🇦🇺" # AU flag: AUstraia
+<Multi_key> <Multi_key> <f> <l> <a> <g> <b> <r>                     : "🇧🇷" # BR flag: Brazil
+<Multi_key> <Multi_key> <f> <l> <a> <g> <c> <n>                     : "🇨🇳" # CN flag: People's Republic of China
+<Multi_key> <Multi_key> <f> <l> <a> <g> <d> <e>                     : "🇩🇪" # DE flag: Germany
+<Multi_key> <Multi_key> <f> <l> <a> <g> <e> <s>                     : "🇪🇸" # ES flag: Spain
+<Multi_key> <Multi_key> <f> <l> <a> <g> <e> <u>                     : "🇪🇺" # EU flag: European Union
+<Multi_key> <Multi_key> <f> <l> <a> <g> <f> <r>                     : "🇫🇷" # FR flag: France
+<Multi_key> <Multi_key> <f> <l> <a> <g> <g> <b>                     : "🇬🇧" # GB flag: United Kingdom of Great Britain and NI
+<Multi_key> <Multi_key> <f> <l> <a> <g> <i> <t>                     : "🇮🇹" # IT flag: Italy
+<Multi_key> <Multi_key> <f> <l> <a> <g> <j> <p>                     : "🇯🇵" # JP flag: Japan
+<Multi_key> <Multi_key> <f> <l> <a> <g> <k> <r>                     : "🇰🇷" # KR flag: South Korea
+<Multi_key> <Multi_key> <f> <l> <a> <g> <m> <x>                     : "🇲🇽" # MX flag: Mexico
+<Multi_key> <Multi_key> <f> <l> <a> <g> <n> <l>                     : "🇳🇱" # NL flag: Netherlands
+<Multi_key> <Multi_key> <f> <l> <a> <g> <n> <z>                     : "🇳🇿" # NZ flag: New Zealand
+<Multi_key> <Multi_key> <f> <l> <a> <g> <p> <l>                     : "🇵🇱" # PL flag: Poland
+<Multi_key> <Multi_key> <f> <l> <a> <g> <p> <s>                     : "🇵🇸" # PS flag: Palestine
+<Multi_key> <Multi_key> <f> <l> <a> <g> <r> <u>                     : "🇷🇺" # RU flag: Russian Federation
+<Multi_key> <Multi_key> <f> <l> <a> <g> <u> <s>                     : "🇺🇸" # US flag: United States of America
 <Multi_key> <Multi_key> <f> <l> <a> <g> <c> <y> <m>                 : "🏴󠁧󠁢󠁷󠁬󠁳󠁿" # Baner Cymru
 <Multi_key> <Multi_key> <f> <l> <a> <g> <s> <c> <o>                 : "🏴󠁧󠁢󠁳󠁣󠁴󠁿" # Scotland flag
 <Multi_key> <Multi_key> <f> <l> <a> <g> <q> <q>                     : "🏳️‍🌈" # Rainbow flag
