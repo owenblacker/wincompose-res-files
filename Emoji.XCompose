@@ -14,14 +14,11 @@
 <Multi_key> <Multi_key> <f> <i> <t> <z> <3>       : "🏼" U1F3FC # Emoji modifier Fitzpatrick 3
 # <Multi_key> <Multi_key> <q> <u> <e> <e> <r>       : "🖤🤎❤️🧡💛💚💙💜" # Rainbow of hearts
 <Multi_key> <Multi_key> <q> <u> <e> <e> <r>       : "🤍🩷🩵🤎🖤❤️🧡💛💚💙💜" # Progress pride hearts
-<Multi_key> <Multi_key> <h> <t> <q>               : "💙💗🤍💗💙" # Rainbow of trans hearts
-<Multi_key> <Multi_key> <r> <h> <t>               : "💙💗🤍💗💙" # Rainbow of trans hearts
-<Multi_key> <Multi_key> <r> <t> <h>               : "💙💗🤍💗💙" # Rainbow of trans hearts
-<Multi_key> <Multi_key> <h> <e> <a> <r> <t> <s> <t> <r> <a> <n> <s> : "💙💗🤍💗💙" # Rainbow of trans hearts
-<Multi_key> <Multi_key> <n> <e> <w> <t> <r>       : "🩵🩷🤍🩷🩵" # Trans pride hearts with pink and baby-blue emoji
-<Multi_key> <Multi_key> <b> <i> <p> <r> <i> <d> <e>: "💗💜💙" # Bisexual pride hearts
-<Multi_key> <Multi_key> <b> <i> <s> <e> <x>       : "💗💜💙" # Bisexual pride hearts
-<Multi_key> <Multi_key> <n> <e> <w> <b> <i>       : "🩷💜💙" # Bisexual pride hearts with pink emoji
+<Multi_key> <Multi_key> <h> <t> <q>               : "🩵🩷🤍🩷🩵" # Rainbow of trans hearts
+<Multi_key> <Multi_key> <r> <h> <t>               : "🩵🩷🤍🩷🩵" # Rainbow of trans hearts
+<Multi_key> <Multi_key> <r> <t> <h>               : "🩵🩷🤍🩷🩵" # Rainbow of trans hearts
+<Multi_key> <Multi_key> <b> <i> <p> <r> <i> <d> <e>: "🩷💜💙" # Bisexual pride hearts
+<Multi_key> <Multi_key> <b> <i> <s> <e> <x>       : "🩷💜💙" # Bisexual pride hearts
 <Multi_key> <Multi_key> <e> <n> <b> <y>           : "💛🤍💜🖤" # Enby pride hearts
 <Multi_key> <Multi_key> <less> <greater>          : "◆" U25c6 # Black diamond
 <Multi_key> <Multi_key> <p> <s> <h>               : "❤️🖤🤍💚" # Palestinian colours hearts
@@ -192,6 +189,7 @@
 <Multi_key> <Multi_key> <f> <l> <a> <g> <n> <l>                     : "🇳🇱" # NL flag: Netherlands
 <Multi_key> <Multi_key> <f> <l> <a> <g> <n> <z>                     : "🇳🇿" # NZ flag: New Zealand
 <Multi_key> <Multi_key> <f> <l> <a> <g> <p> <l>                     : "🇵🇱" # PL flag: Poland
+<Multi_key> <Multi_key> <f> <l> <a> <g> <p> <r>                     : "🇵🇷" # PR flag: Puerto Rico
 <Multi_key> <Multi_key> <f> <l> <a> <g> <p> <s>                     : "🇵🇸" # PS flag: Palestine
 <Multi_key> <Multi_key> <f> <l> <a> <g> <r> <u>                     : "🇷🇺" # RU flag: Russian Federation
 <Multi_key> <Multi_key> <f> <l> <a> <g> <u> <s>                     : "🇺🇸" # US flag: United States of America
