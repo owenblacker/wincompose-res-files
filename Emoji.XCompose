@@ -186,6 +186,7 @@
 <Multi_key> <Multi_key> <f> <l> <a> <g> <i> <r>                     : "🇮🇷" # IR flag: Iran
 <Multi_key> <Multi_key> <f> <l> <a> <g> <j> <p>                     : "🇯🇵" # JP flag: Japan
 <Multi_key> <Multi_key> <f> <l> <a> <g> <k> <r>                     : "🇰🇷" # KR flag: South Korea
+<Multi_key> <Multi_key> <f> <l> <a> <g> <l> <b>                     : "🇱🇧" # LB flag: Lebanon
 <Multi_key> <Multi_key> <f> <l> <a> <g> <m> <x>                     : "🇲🇽" # MX flag: Mexico
 <Multi_key> <Multi_key> <f> <l> <a> <g> <n> <l>                     : "🇳🇱" # NL flag: Netherlands
 <Multi_key> <Multi_key> <f> <l> <a> <g> <n> <z>                     : "🇳🇿" # NZ flag: New Zealand
@@ -197,7 +198,7 @@
 <Multi_key> <Multi_key> <f> <l> <a> <g> <c> <y> <m>                 : "🏴󠁧󠁢󠁷󠁬󠁳󠁿" # Baner Cymru
 <Multi_key> <Multi_key> <f> <l> <a> <g> <s> <c> <o>                 : "🏴󠁧󠁢󠁳󠁣󠁴󠁿" # Scotland flag
 <Multi_key> <Multi_key> <f> <l> <a> <g> <q> <q>                     : "🏳️‍🌈" # Rainbow flag
-<Multi_key> <Multi_key> <f> <l> <a> <g> <q> <t>                     : "🏳️‍⚧️" # Trans flag, where supported
+<Multi_key> <Multi_key> <f> <l> <a> <g> <q> <t>                     : "🏳️‍⚧️" # Trans flag
 # "🈁" U1F201 # squared katakana koko
 # "🈂" U1F202 # squared katakana sa
 # "🈚" U1F21A # squared cjk unified ideograph-7121
